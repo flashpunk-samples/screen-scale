@@ -56,3 +56,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+flashpunk-1.7.2.swc
+*.old
+obj/screen-scaleConfig.xml
+*.lxml
